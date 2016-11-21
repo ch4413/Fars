@@ -1,0 +1,22 @@
+Package: Fars
+Type: Package
+Title: Functions for Fatality Analysis Reporting System data
+Version: 0.1.0
+Date: 2016-11-21
+Depends:
+    R (>= 3.2.0)
+Suggests:
+    readr,dplyr,tidyr,maps,graphics,
+    knitr,
+    rmarkdown
+Import:magrittr
+Author: Christopher Hughes <christopher.hughes@bath.edu>
+Maintainer: Christopher Hughes <christopher.hughes@bath.edu>
+Description: A collection of functions for manipulated data from the US National
+    Highway Traffic Safety Administration's Fatality Analysis Reporting System
+    (FARS).
+License: GPL (>= 2)
+LazyData: TRUE
+URL: https://github.com/ch4413/IHSTechTools
+RoxygenNote: 5.0.1
+VignetteBuilder: knitr
