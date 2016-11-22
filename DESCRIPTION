@@ -8,8 +8,8 @@ Depends:
 Suggests:
     readr,dplyr,tidyr,maps,graphics,
     knitr,
-    rmarkdown
-Import:magrittr,testthat
+    rmarkdown,testthat
+Import:magrittr
 Author: Christopher Hughes <christopher.hughes@bath.edu>
 Maintainer: Christopher Hughes <christopher.hughes@bath.edu>
 Description: A collection of functions for manipulated data from the US National
