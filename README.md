@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a10jryr3bgbkhqel?svg=true)](https://ci.appveyor.com/project/ch4413/fars)
+
 # Fars
 
 The goal of Fars is to ...
