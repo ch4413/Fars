@@ -2,21 +2,17 @@
 
 # Fars
 
-The goal of Fars is to ...
+The FARS package will allow you to manipulate FARS data from the US National Highway Traffic Safety Administration's ([via](http://www.nhtsa.gov/Data/Fatality-Analysis-Reporting-System-(FARS)))
 
 ## Installation
 
 You can install Fars from github with:
 
 ```R
-# install.packages("devtools")
-devtools::install_github("NA/NA")
+# install.packages("ghit")
+ghit::install_github("ch4413/IHSTechTools")
 ```
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
-
-```R
-...
-```
+Examples are contained in the package vignette.
