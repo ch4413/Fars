@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/a10jryr3bgbkhqel?svg=true)](https://ci.appveyor.com/project/ch4413/fars)
 
+[![Build Status](https://travis-ci.org/ch4413/Fars.svg?branch=master)](https://travis-ci.org/ch4413/Fars)
+
 # Fars
 
 The FARS package will allow you to manipulate FARS data from the US National Highway Traffic Safety Administration's ([via](http://www.nhtsa.gov/Data/Fatality-Analysis-Reporting-System-(FARS)))
